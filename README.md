@@ -1,1 +1,4 @@
-# AstroNoorAli.github.io
+#Astrophysics
+### Education
+Physics, BSc
+### Current Projects
